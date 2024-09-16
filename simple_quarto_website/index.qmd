@@ -1,7 +1,126 @@
 ---
 title: "simple_quarto_website"
+format: 
+ html:
+   toc: true
+   toc-location: left
+   embed-resources: true
+   bibliography: references.bib
+
 ---
 
 This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+
+
+# great poem to read while drinking wine
+If we must die, let it not be like hogs
+Hunted and penned in an inglorious spot,
+While round us bark the mad and hungry dogs,
+Making their mock at our accursèd lot.
+If we must die, O let us nobly die,
+So that our precious blood may not be shed
+In vain; then even the monsters we defy
+Shall be constrained to honor us though dead!
+O kinsmen! we must meet the common foe!
+Though far outnumbered let us show us brave,
+And for their thousand blows deal one death-blow!
+What though before us lies the open grave?
+Like men we’ll face the murderous, cowardly pack,
+Pressed to the wall, dying, but fighting back!
+
+
+## places that i want to visit by continent 
+::: {layout-ncol = 2}
+### south america
+
+- chille
+- peru
+- argentina
+- brazil
+
+
+### africa
+- south africa
+- morocco 
+- egypt
+- tunisia
+
+:::
+
+### 
+
+:::: {.columns}
+::: {.column width="50%"}
+### important statisitcs in baseball(batting)
+
+`OPS`: on base plus slugging\
+OPS adds on-base percentage and slugging percentage to get one number that unites the two. It's meant to combine how well a hitter can reach base, with how well he can hit for average and for power.
+It can also be used in evaluating pitchers; when used in that context, it is referred to as OPS against.
+:::
+
+::: {.column width="50%"}
+### most importnat statistics in baseball(pitching)
+
+`ERA+`: adjusted earned run average\
+ERA+ takes a player's ERA and normalizes it across the entire league. It accounts for external factors like ballparks and opponents. It then adjusts, so a score of 100 is league average, and 150 is 50 percent better than the league average.
+
+For example, Mariano Rivera's 2.21 career ERA was 105 percent better than the MLB average during the time he pitched (including adjustments for park and league). That gives him a 205 career ERA+ (the best all-time).
+:::
+::::
+
+# simple math formula 
+* simple math formula 
+ $f(x)=\frac{e^{x^2}}{x^3-1}$
+
+# MLB AL east standings
+| AL east | Winning % | 
+|---------|:-----     |
+| Yankees | 0.580   |
+| Orioles | 0.560  | 
+| Red Box | 0.500    | 
+| Rays    | 0.487
+| Blue Jays|0.480  |
+: MLB AL east standings
+#
+
+# footnote
+life is too short [^1], need more sleep.
+
+[^1]: expected life for human is around 80 years old,so this is false.
+#
+
+# non inline math
+$$c^{2} = a^{2}+b^{2}$$
+
+
+# quotes
+> life is not short so we don't need python
+
+# chart1
+```{mermaid}
+flowchart LR
+  A[Hard edge] --> B(Round edge)
+  B --> C{Decision}
+  C --> D[Result one]
+  C --> E[Result two]
+```
+
+# video
+{{< video https://youtu.be/lfpf-wxW-cM?feature=shared >}}
+
+# image
+::: {layout-ncol=2}
+
+![](images/U.S.Capitol.png){fig-align="left" width="6.62in"}
+
+![](images/Seoul.png){fig-align="left" width="6.14in"}
+
+
+:::
+
+# citation
+[@lindsey1963investigation]
+

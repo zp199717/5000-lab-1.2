@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "index.html#places-that-i-want-to-visit-by-continent",
+    "href": "index.html#places-that-i-want-to-visit-by-continent",
+    "title": "simple_quarto_website",
+    "section": "places that i want to visit by continent",
+    "text": "places that i want to visit by continent\n::: {layout-ncol = 2} ### south america\n\nchille\nperu\nargentina\nbrazil\n\n\nafrica\n\nsouth africa\nmorocco\negypt\ntunisia\n\n:::\n\n\n\n\n\n\n\nimportant statisitcs in baseball(batting)\nOPS: on base plus slugging\nOPS adds on-base percentage and slugging percentage to get one number that unites the two. It’s meant to combine how well a hitter can reach base, with how well he can hit for average and for power. It can also be used in evaluating pitchers; when used in that context, it is referred to as OPS against.\n\n\n\nmost importnat statistics in baseball(pitching)\nERA+: adjusted earned run average\nERA+ takes a player’s ERA and normalizes it across the entire league. It accounts for external factors like ballparks and opponents. It then adjusts, so a score of 100 is league average, and 150 is 50 percent better than the league average.\nFor example, Mariano Rivera’s 2.21 career ERA was 105 percent better than the MLB average during the time he pitched (including adjustments for park and league). That gives him a 205 career ERA+ (the best all-time)."
+  },
+  {
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "simple_quarto_website",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nexpected life for human is around 80 years old,so this is false. #↩︎"
+  },
+  {
+    "objectID": "slides/slides.html#hello-there",
+    "href": "slides/slides.html#hello-there",
+    "title": "first slide",
+    "section": "Hello, There",
+    "text": "Hello, There\nThis presentation will show you examples of what you can do with Quarto and Reveal.js, including:\n\nPresenting code and LaTeX equations\nIncluding computations in slide output\nImage, video, and iframe backgrounds\nFancy transitions and animations\nPrinting to PDF"
+  },
+  {
+    "objectID": "slides/slides.html#pretty-code",
+    "href": "slides/slides.html#pretty-code",
+    "title": "first slide",
+    "section": "Pretty Code",
+    "text": "Pretty Code\n\nOver 20 syntax highlighting themes available\nDefault theme optimized for accessibility"
+  },
+  {
+    "objectID": "slides/slides.html#very-hard-to-code-it",
+    "href": "slides/slides.html#very-hard-to-code-it",
+    "title": "first slide",
+    "section": "very hard to code it",
+    "text": "very hard to code it\n\nit is complicated"
+  },
+  {
+    "objectID": "slides/slides.html#image",
+    "href": "slides/slides.html#image",
+    "title": "first slide",
+    "section": "image",
+    "text": "image"
+  },
+  {
+    "objectID": "slides/slides.html#citation",
+    "href": "slides/slides.html#citation",
+    "title": "first slide",
+    "section": "citation",
+    "text": "citation\n\n(Lindsey 1963)\n\nLindsey, George R. 1963. “An Investigation of Strategies in Baseball.” Operations Research 11 (4): 477–501."
+  },
+  {
+    "objectID": "slides/slides.html#some-graph",
+    "href": "slides/slides.html#some-graph",
+    "title": "first slide",
+    "section": "some graph",
+    "text": "some graph"
+  }
+]

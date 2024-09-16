@@ -9,10 +9,15 @@ website:
         text: Home
       - about.qmd
 
+      - text: "slides"
+        menu:
+         - text: "first slide"
+           href: slides/slides.ipynb
+           
+           
 format:
   html:
     theme: cosmo
-    css: styles.css
     toc: true
 
 
